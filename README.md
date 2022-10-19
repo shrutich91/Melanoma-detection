@@ -1,4 +1,4 @@
-# Project Name
+# Melanoma cancer detection
 > Multiclass classification model using a custom convolutional neural network in TensorFlow to detect melanoma 
 
 
