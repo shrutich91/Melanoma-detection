@@ -46,8 +46,7 @@ Vascular lesion
 - Augmentation and Dropout layers are introduced to get rid of the underfitting
 - The dataset are not evenly divided into different classes. Some classes are dominant and some are sparse. There is a class imbalance that we need to resolve
 - The dataset doesnot have enough data. So Augmentor strategy to augment the number of images is required. The final model has good training, test accuracy
--
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
 
 
 ## Technologies Used
@@ -68,8 +67,3 @@ Vascular lesion
 Created by [@shrutich91] - feel free to contact me!
 
 
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
