@@ -51,9 +51,9 @@ Vascular lesion
 
 
 ## Technologies Used
-- tensorflow - version 1.0
-- keras - version 2.0
-- library - version 3.0
+- tensorflow - version 2.9.2
+- keras - version 2.9.0
+
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
