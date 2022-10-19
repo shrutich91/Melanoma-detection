@@ -28,6 +28,9 @@ The dataset consists of 2357 images of malignant and benign oncological diseases
 
 ![alt text](https://github.com/shrutich91/Melanoma-detection/blob/master/images/Capture1.PNG)
 
+Visualizing an image from every class:
+
+![alt text](https://github.com/shrutich91/Melanoma-detection/blob/master/images/Capture3.PNG)
 
 The data set contains the following diseases:
 
